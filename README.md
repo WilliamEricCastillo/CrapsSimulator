@@ -8,16 +8,16 @@ This program allows you to play and simulate a game of Craps without the need fo
 
 ## How to Run the Program
 To run the Craps simulator, follow these steps:
-1. Clone the Repository:
+1. Clone the Repository: <br>
 `git clone https://github.com/WilliamEricCastillo/CrapsSimulator.git`
 
-2. Navigate to the Project Directory:
+2. Navigate to the Project Directory:<br>
 `cd CrapsSimulator`
 
-3. Compile the Program:
+3. Compile the Program:<br>
 `g++ -o craps_simulator main.cpp die.cpp roll.cpp shooter.cpp point_phase.cpp come_out_phase.cpp`
 
-4. Run the Program:
+4. Run the Program:<br>
 `./craps_simulator`
 
 
